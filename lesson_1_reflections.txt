@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made it absolutely clear as in which part of the code, the bug is present. It also helped me identify the difference between the contents of the versions.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Any bug or error inroduced at a later stage of development can be easily removed. Also, we can provide only the desired features to various users based upon stages of development.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual saves allow users to identify a logical change and commit at that point. However, the choice of the commit varies as per different discretions.
+    Automatic version saves facilitate periodic changes and can help navigate better, but they might also cluttering of version saves, hence creating readibility concerns.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some version control systems allow saving multiple files in one commit to reflect a common change to all files in one go. The others might focus on assuring data independence and isolation properties.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log shows list of recent commits with information about them including their commit ID's. Git diff helps to compare two different commits using their commit ID's.
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control gives me the advantage to switch to a different version without the code that could break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would want to try using git for making projects in collaboration in all fields I am aaccustomed to. I could make development projects etc.
